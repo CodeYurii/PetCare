@@ -2,7 +2,6 @@ package com.petcare.model.factory;
 
 import com.petcare.model.*;
 import com.petcare.model.builder.ConsultaBuilder;
-
 import java.time.LocalDateTime;
 
 public class ConsultaFactory {

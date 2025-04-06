@@ -2,7 +2,6 @@ package com.petcare.model;
 
 import com.petcare.interfaces.Agenda;
 import com.petcare.model.builder.ConsultaBuilder;
-
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;

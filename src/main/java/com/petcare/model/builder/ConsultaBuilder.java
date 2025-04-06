@@ -1,7 +1,6 @@
 package com.petcare.model.builder;
 
 import com.petcare.model.*;
-
 import java.time.LocalDateTime;
 
 public class ConsultaBuilder {

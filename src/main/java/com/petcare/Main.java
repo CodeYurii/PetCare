@@ -1,20 +1,14 @@
 package com.petcare;
 
 import com.petcare.controller.ConsultaController;
-import com.petcare.interfaces.Agenda;
 import com.petcare.model.*;
 import com.petcare.model.builder.TutorBuilder;
 import com.petcare.model.factory.ConsultaFactory;
 import com.petcare.model.factory.PetFactory;
 import com.petcare.model.factory.PrescricaoFactory;
 import com.petcare.util.ConfigSistema;
-
-import java.time.format.DateTimeFormatter;
-
 import java.time.LocalDateTime;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
         ConfigSistema config = ConfigSistema.getInstancia();

@@ -1,11 +1,8 @@
 package com.petcare.controller;
 
 import com.petcare.model.Consulta;
-
-import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
-import java.util.ArrayList;
-import java.util.List;
+
 
 public class ConsultaController {
 
